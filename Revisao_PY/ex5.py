@@ -2,6 +2,4 @@
 # E RETORNE A MEDIA DOS NUMEROS PARES.
 
 lista_numeros = ['2', '3', '5',
-         '7', '1', '8']
-
-
+         '7', '1',]
